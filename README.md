@@ -1,3 +1,3 @@
-# DSA-Assignment
+# Python-practice
 Memusi Brian Sanaet
 189718
